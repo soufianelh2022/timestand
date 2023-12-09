@@ -51,15 +51,15 @@
 
   "guides": [
 	{
-	 "image": "xxxx",
+	 "image": "https://avatars.mds.yandex.net/i?id=9cd1408dafa05583cc5408d3525f7fdd3f9826ba-9066147-images-thumbs&n=13",
 	 "title": "00",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "text": "",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
-	 "downloads": 93,
-	 "views": 4211,
+	 "downloads": 953,
+	 "views": 421,
 
 	 "isLocked": false,
 	 "id": 1
